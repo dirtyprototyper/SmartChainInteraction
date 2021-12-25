@@ -1,0 +1,15 @@
+{
+  "name": "smartchaininteraction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethers-ancillary/bsc": "^0.0.3",
+    "ethers": "^5.5.2"
+  }
+}
