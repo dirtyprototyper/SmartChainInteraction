@@ -1,7 +1,7 @@
 # SmartChainInteraction
 To return the token balance of specific address for a given ContractAddress
 
-$SWTH Token Contract: `0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c`
+$SWTH Token Contract: `0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c`  <br>
 Addresses: 0x123d475e13aa54a43a7421d94caa4459da021c77, 0x0020c5222a24e4a96b720c06b803fb8d34adc0af
 
 Requirement to be done in Typescript and optionally with ethers.js
